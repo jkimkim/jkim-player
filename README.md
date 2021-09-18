@@ -1,1 +1,1 @@
-# jkim-player
+# jk-player
